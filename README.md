@@ -18,16 +18,16 @@ Criar uma infraestrutura básica na AWS utilizando recursos do Free Tier, inclui
 ## Arquitetura
 
 Internet 
- │
+ 
  ▼
 Internet Gateway 
- │
+ 
  ▼
 VPC (10.0.0.0/16) 
- │
+ 
  ▼
 Public Subnet (10.0.1.0/24) 
- │
+ 
  ▼
 EC2 Amazon Linux 2023
 
