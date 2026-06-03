@@ -39,25 +39,32 @@ EC2 Amazon Linux 2023
 
 ## Evidências
 
-### VPC
+## VPC
+
 ![VPC](imagens/vpc-lab.png)
 
-### Public Subnet
-![Subnet](imagens/public-subnet.png)
+## Public Subnet
 
-### Internet Gateway
-![IGW](imagens/internet-gateway.png)
+![Public Subnet](imagens/public-subnet.png)
 
-### Route Table
+## Internet Gateway
+
+![Internet Gateway](imagens/internet-gateway.png)
+
+## Route Table
+
 ![Route Table](imagens/route-table.png)
 
-### Security Group
+## Security Group
+
 ![Security Group](imagens/sg-lab.png)
 
-### EC2 Running
+## EC2 Running
+
 ![EC2](imagens/ec2-running.png)
 
-### Acesso SSH
+## Acesso SSH
+
 ![SSH](imagens/acesso-ssh.png)
 
 ## Aprendizados
