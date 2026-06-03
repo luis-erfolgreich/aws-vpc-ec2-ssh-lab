@@ -41,31 +41,31 @@ EC2 Amazon Linux 2023
 
 ## VPC
 
-![VPC](imagens/vpc-lab.png)
+![VPC](vpc-lab.png)
 
 ## Public Subnet
 
-![Public Subnet](imagens/public-subnet.png)
+![Public Subnet](public-subnet.png)
 
 ## Internet Gateway
 
-![Internet Gateway](imagens/internet-gateway.png)
+![Internet Gateway](internet-gateway.png)
 
 ## Route Table
 
-![Route Table](imagens/route-table.png)
+![Route Table](route-table.png)
 
 ## Security Group
 
-![Security Group](imagens/sg-lab.png)
+![Security Group](sg-lab.png)
 
 ## EC2 Running
 
-![EC2](imagens/ec2-running.png)
+![EC2](ec2-executando.png)
 
 ## Acesso SSH
 
-![SSH](imagens/acesso-ssh.png)
+![SSH](acesso-ssh.png)
 
 ## Aprendizados
 
